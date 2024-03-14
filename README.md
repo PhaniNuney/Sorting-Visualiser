@@ -8,6 +8,4 @@ Sorting Algorithms
 
 Fork the Repository and run it locally using the common "next run dev"
 
-<img src="Test/Sort/Sorting Visualiser.png">
-
 
