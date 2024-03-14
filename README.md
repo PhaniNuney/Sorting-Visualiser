@@ -6,6 +6,6 @@ Sorting Algorithms
 - Insertion Sort
 - Selection Sort
 
-Fork the Repository and run it locally using the common "next run dev"
+Fork the Repository and run it locally using the command "next run dev"
 
 
