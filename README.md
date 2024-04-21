@@ -8,4 +8,5 @@ Sorting Algorithms
 
 Fork the Repository and run it locally using the command "next run dev"
 
+Try it out here - https://sorting-visualiser-psi.vercel.app/
 
